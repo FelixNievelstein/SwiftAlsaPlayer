@@ -9,6 +9,6 @@ let package = Package(
     dependencies: [
         // Dependencies declare other packages that this package depends on.
         .Package(url: "https://github.com/apple/swift-package-manager.git", majorVersion: 0),
-        .Package(url: "https://github.com/FelixNievelstein/AlsaModulePackage.git", majorVersion: 0)
+        .Package(url: "https://github.com/FelixNievelstein/AlsaModulePackage.git", majorVersion: 0, minor:2)
     ]
 )
