@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CAlsa",
+        "repositoryURL": "https://github.com/FelixNievelstein/AlsaModulePackage.git",
+        "state": {
+          "branch": null,
+          "revision": "0c8b7490ed0cf85aafc72e6f2cac2208fe5d6c28",
+          "version": "0.0.1"
+        }
+      },
+      {
+        "package": "SwiftPM",
+        "repositoryURL": "https://github.com/apple/swift-package-manager.git",
+        "state": {
+          "branch": null,
+          "revision": "6983434787dec4e543e9d398a0a9acf63ccd4da1",
+          "version": "0.2.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
